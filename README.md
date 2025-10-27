@@ -1,4 +1,4 @@
-# Utilkit
+# Unikit
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/BluePixelDev/utilkit?style=flat-square)](https://github.com/BluePixelDev/utilkit/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/BluePixelDev/utilkit?style=flat-square)](https://github.com/BluePixelDev/utilkit/commits/main)
